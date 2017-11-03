@@ -1,0 +1,29 @@
+{
+  "name": "work_contact",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-custom-scrollbars": "^4.0.0",
+    "react-fa": "^4.1.2",
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "history": "^4.4.1",
+    "jwt-decode": "^2.2.0",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-redux": "^5.0.2",
+    "react-router": "^3.0.0",
+    "react-router-redux": "^4.0.7",
+    "redux": "^3.6.0",
+    "redux-devtools": "^3.3.2",
+    "redux-promise": "^0.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
